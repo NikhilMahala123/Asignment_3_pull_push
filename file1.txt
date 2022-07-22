@@ -1,4 +1,8 @@
 this is file 1 one
 this is second commit on file 1  in feature 1 branch
 this is 3rd commit and in feature3 Branch
+<<<<<<< HEAD
 this is 5th ommit in vsc
+=======
+this is 4rth commit in feature3 through githubzcx ccx x
+>>>>>>> 3696723010d6153aa8dbaf3d8c1c9aa08a435324
